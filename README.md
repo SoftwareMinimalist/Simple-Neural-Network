@@ -28,3 +28,9 @@ THE CODE IS OPEN so you can use it to learn how Neural Nets work or modify it to
 - changed the structure of NN when saved to file. It is now saved to an INI file and can be easily edited.
 - changed the teaching file to be TDMS based. This will make it easier to create and view files.
 - simplified the API and made it even faster to use
+
+![](Images/1.png)
+
+![](Images/2.png)
+
+![](Images/3.png)
